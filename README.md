@@ -30,3 +30,12 @@ Comme mentionne plus haut, les informations sont sauvegardes, donc pas perdus. P
 J'ai build le projet, je crois que vous n'aurez aucun probleme a l'executer.
 
 Je reste disponible a repondre a vos questions.
+
+
+Si vous voulez ouvrir en mode dev
+
+Ouvrir trois terminaux
+npm run watch;
+npm run server;
+npm start;
+
