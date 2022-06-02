@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "typicode"
+    },
+    {
+      "id": 2,
+      "email": "jael@gmail.com",
+      "password": "typicode"
+    },
+    {
+      "id": 3,
+      "email": "kalvin@gmail.com",
+      "password": "typicode"
+    },
+    {
+      "email": "admin2@gmail.com",
+      "password": "typicode",
+      "id": 4
+    },
+    {
+      "email": "paul@gmail.com",
+      "password": "111111",
+      "id": 5
+    },
+    {
+      "email": "richel@gmail.com",
+      "password": "111111",
+      "id": 6
+    }
+  ],
+  "articles": [
+    {
+      "id": 2,
+      "title": "Second Article",
+      "description": "Second Article",
+      "reminder": true
+    },
+    {
+      "title": "jael",
+      "description": "calvin",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "title": "Create a title",
+      "description": "Login",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "title": "Foufth Article",
+      "description": "Tenth article",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
